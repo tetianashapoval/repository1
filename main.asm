@@ -5,4 +5,7 @@
 .code
 .start
 mov ac, dc 
+
  end start
+
+ 
